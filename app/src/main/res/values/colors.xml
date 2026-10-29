@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1F6FEB</color>
+    <color name="surface">#F6F7F9</color>
+    <color name="ink">#111827</color>
+    <color name="muted">#6B7280</color>
+    <color name="border">#D1D5DB</color>
+    <color name="thumb_bg">#E5E7EB</color>
+</resources>
